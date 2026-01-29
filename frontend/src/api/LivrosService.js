@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:3333/books"
+const BASE_URL = "https://two16311-desafio05.onrender.com/books"
 
 export class LivrosService {
   static getLivros() {
